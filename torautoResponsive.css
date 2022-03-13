@@ -1,0 +1,53 @@
+@media (max-width:670px) {
+    header p{
+        text-align: center;
+    }
+    .top-wrapper p{
+        font-size: 30px;
+    }
+    .top-wrapper h1{color:rgb(10, 14, 233);
+    font-size:50px;
+}
+    .login{display:none;}
+    .skills  h2 {
+        font-size: 90px;
+        text-align: center;
+    }
+    .works h2{
+        font-size: 90px;
+        text-align: center;
+    }
+    .images img{
+        width:80%;
+                margin-bottom:50px;}
+    .recommend h2 {
+        font-size: 10px;
+    }   
+    .recommend a{
+       display: block;
+       
+    }  
+    .recommend img{
+        width: 70%;
+        margin: 50px auto;
+    }
+   .profile img{
+    object-fit: cover;
+    width: 200px;
+   }
+   .profile p{
+       display: none;
+   }
+   .logo p{
+    text-align: center;
+}
+    header{
+        width: 85%;
+    }
+    .top-wrapper{
+        width: auto;
+        height: auto;
+       text-align: center;
+       background-position: 50% 50%;
+    }
+}
